@@ -134,9 +134,9 @@ npm run parse examples/test.csp
 
 ## Related Projects
 
-- [cspaced](https://github.com/yourusername/cspaced) - The main cspaced compiler
-- [language-cspaced](https://github.com/yourusername/language-cspaced) - VS Code extension
-- [vim-cspaced](https://github.com/yourusername/vim-cspaced) - Vim plugin
+- [cspaced](https://github.com/demosthenez/cspaced) - The main cspaced compiler
+- [language-cspaced](https://github.com/demosthenez/language-cspaced) - VS Code extension
+- [vim-cspaced](https://github.com/demosthenez/vim-cspaced) - Vim plugin
 
 ## License
 
